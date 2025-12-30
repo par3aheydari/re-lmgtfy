@@ -129,7 +129,7 @@ body>div.main>form>div.input-search>input:hover {
 }
 
 body>div.main>form>div.input-search>input::placeholder {
-    color: #4285f4
+    color: #B0B0B0
 }
 
 body>div.main>form>div.input-search>input:focus {
