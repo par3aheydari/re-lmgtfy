@@ -214,6 +214,7 @@ body>div.main div#link .box input#myInput {
     margin-top: 10px;
     cursor: default;
     background: #1E1E1E
+    color: white;
 }
 
 body>div.main div#link .box>.buttons {
