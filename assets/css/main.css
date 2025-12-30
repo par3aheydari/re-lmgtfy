@@ -264,7 +264,7 @@ body div#footer>div.left {
 }
 
 body div#footer>div.left p {
-    color: #70757a;
+    color: #E0E0E0;
     font-size: 12px;
     direction: ltr;
     margin: 0;
@@ -286,7 +286,7 @@ body div#footer>div.right {
 }
 
 body div#footer>div.right a {
-    color: #70757a;
+    color: #E0E0E0;
     margin: 2px 10px 0;
     text-decoration: none;
     white-space: nowrap;
