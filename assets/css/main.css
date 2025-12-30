@@ -120,7 +120,7 @@ body>div.main>form>div.input-search>input {
     padding-right: 15px;
     padding-left: 15px;
     background: #1E1E1E;
-    /* color: #E0E0E0; */
+    color: #E0E0E0; 
 }
 
 body>div.main>form>div.input-search>input:hover {
@@ -198,7 +198,7 @@ body>div.main div#link .box {
     align-items: center;
     display: flex;
     max-width: 400px;
-    background: #fff;
+    background: #1E1E1E;
     border-radius: 5px
 }
 
@@ -213,7 +213,7 @@ body>div.main div#link .box input#myInput {
     border-radius: 5px;
     margin-top: 10px;
     cursor: default;
-    background: #f3f3f3
+    background: #1E1E1E
 }
 
 body>div.main div#link .box>.buttons {
@@ -224,11 +224,11 @@ body>div.main div#link .box>.buttons {
 }
 
 body>div.main div#link .box>.buttons button {
-    background-color: #f8f9fa;
+    background-color: #1E1E1E;
     border: 1px solid #f8f9fa;
     border-radius: 4px;
     font-family: Vazir,serif;
-    color: #3c4043;
+    color: #E0E0E0;
     font-size: 14px;
     margin: 11px 4px;
     padding: 0 16px;
